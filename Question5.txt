@@ -1,0 +1,11 @@
+SOLUTION 5
+
+We know that artificial neural networks are modelling of the human brain with the simplest definition and building blocks are neurons. There are about 100 billion neurons in the human brain. Each neuron has a connection point between 1000 and 1000. In the human brain, information is stored in such a way as to be distributed, and we can extract more than one piece of this information when necessary from our memory in parallel. We are not mistaken when we say that a human brain is made up of thousands of very powerful parallel processors. 
+In multilayer artificial neural networks, there are also neurons placed in a similar manner to the human brain. Each neuron is connected to other neurons with certain coefficients. During training, information is distributed to these connection points so that the network learns. 
+However, with so many advantages, there are still some points where ANN has a disadvantage as compared to traditional/handcrafted techniques. 
+The following are the disadvantages of ANN:
+•	Heavy Hardware dependence: We know that ANN requires a lot of parallel processing power in accordance with their structure. So as per the size and complexity and size of the neural network, the realization of the hardware is dependent
+•	Unexplained Behaviour of the network: When ANN produces a probing solution, it does not give a clue as to why and how the solution was obtained. This can lead to reduced trust in the network.
+•	Determination of proper network structure: There is no specific method for determining how many neurons and hidden layers a particular neural network should have. The only way to have an appropriate neural network model is through experience and trial and error.
+•	Difficulty of showing the problem of the network: ANNs can work with numerical information. Problems have to be translated into numerical values before being introduced to ANN. The display mechanism to be determined here will directly influence the performance of the network. This depends on the user’s ability.
+•	The duration of the network is unknown: The network is reduced to a certain value of the error on the sample means that the training has been completed. This value mostly never gives the user optimal results.
